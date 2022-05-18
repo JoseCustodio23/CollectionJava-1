@@ -1,3 +1,4 @@
+//Programa que itere sobre la lista e imprima el ultimo elemento
 import java.util.*;
 
 public class LastDay {
