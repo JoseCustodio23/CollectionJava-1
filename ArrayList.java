@@ -1,3 +1,4 @@
+//Programa para sortear los elementos de la colección 
 import java.util.ArrayList;
 
 public class RandomNumber {
