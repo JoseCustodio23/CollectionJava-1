@@ -1,3 +1,5 @@
+// Programa para copiar una colección en otra 
+
 import java.util.*;
 
 public class Copy {
